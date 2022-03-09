@@ -34,28 +34,28 @@ let All_song = [
      singer: "Uzmir"
    },
    {
-     name: "second song",
-     path: "music/song2.mp3",
-     img: "img/img2.jpg",
-     singer: "2"
+     name: "Yor Yonaman",
+     path: "assets/music/Asl-wayne.mp3",
+     img: "assets/images/asl-wayne.jpg",
+     singer: "Asl Wayne"
    },
    {
-     name: "third song",
-     path: "music/song3.mp3",
-     img: "img/img3.jpg",
-     singer: "3"
+     name: "Faded",
+     path: "assets/music/faded.mp3",
+     img: "assets/images/faded.png",
+     singer: "Alan Walker"
    },
    {
-     name: "fourth song",
-     path: "music/song4.mp3",
-     img: "img/img4.jpg",
-     singer: "4"
+     name: "xato",
+     path: "assets/music/xato.mp3",
+     img: "assets/images/xato.jpg",
+     singer: "Shoxruh"
    },
    {
-     name: "fifth song",
-     path: "music/song5.mp3",
-     img: "img/img5.jpg",
-     singer: "5"
+     name: "She'riyat",
+     path: "assets/music/massa.mp3",
+     img: "assets/images/massa.jpg",
+     singer: "Massa"
    }
 ];
 
